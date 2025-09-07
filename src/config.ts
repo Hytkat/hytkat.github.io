@@ -24,7 +24,7 @@ export const siteConfig = {
       name: "Numer",
       description:
         "A YouTube-like platform where users can share and discover videos. Features video upload, streaming, user profiles, and social interactions similar to popular video sharing platforms.",
-      link: "#",
+      link: "https:github.com/Hytkat/numer",
       skills: ["Next.js", "MongoDB", "Shadcn", "TailwindCSS"],
     },
     {
