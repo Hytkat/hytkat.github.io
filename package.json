@@ -1,0 +1,24 @@
+{
+  "name": "portf",
+  "type": "module",
+  "version": "0.0.1",
+  "author": "Hirakjyoti Kalita (hytkat)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hytkat/hytkat.github.io"
+  },
+  "homepage": "https://github.com/Hytkat/hytkat.github.io",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.13.5",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.13"
+  }
+}
